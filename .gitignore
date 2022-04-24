@@ -1,1 +1,2 @@
-dist/*
+dist/*.pdf
+dist/*.tex
